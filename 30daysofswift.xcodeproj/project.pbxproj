@@ -10,6 +10,7 @@
 		60DE3195D75FA7390F632BB2 /* 30daysofswiftUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60DE3EFF5EEF458FD7B655EB /* 30daysofswiftUITestsLaunchTests.swift */; };
 		60DE359CC9C8692A65B75AF1 /* thirtydaysofswiftApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60DE3A66EC7D55ACE955C5F0 /* thirtydaysofswiftApp.swift */; };
 		60DE3661F1307557D799E9AC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60DE3B9DAB5C988DF602826B /* Preview Assets.xcassets */; };
+		60DE3984F0F0C54CB1BEA486 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 60DE38DE3C88FC91B402DBB1 /* .gitignore */; };
 		60DE3A83D2E0C3AE969EE11A /* thirtydaysofswiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60DE3BBB4FFEFBC8E51C924D /* thirtydaysofswiftTests.swift */; };
 		60DE3AEE4B58348A165DF824 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60DE34382533AB1C501FD363 /* Assets.xcassets */; };
 		60DE3B5EC3FE99EF130414D6 /* 30daysofswiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60DE37B4955EE80B21DF775B /* 30daysofswiftUITests.swift */; };
@@ -38,6 +39,7 @@
 		60DE3635BDD19D9EC23FDE19 /* thirtydaysofswift.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = thirtydaysofswift.entitlements; sourceTree = "<group>"; };
 		60DE37B4955EE80B21DF775B /* 30daysofswiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 30daysofswiftUITests.swift; sourceTree = "<group>"; };
 		60DE38B4C8E69109FBDB458B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		60DE38DE3C88FC91B402DBB1 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = file.gitignore; path = .gitignore; sourceTree = "<group>"; };
 		60DE3A66EC7D55ACE955C5F0 /* thirtydaysofswiftApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirtydaysofswiftApp.swift; sourceTree = "<group>"; };
 		60DE3B9DAB5C988DF602826B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		60DE3BBB4FFEFBC8E51C924D /* thirtydaysofswiftTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirtydaysofswiftTests.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 				60DE3E7FC6C948D7EF2A28AA /* 30daysofswift */,
 				60DE315061BD56D5F6D7570E /* 30daysofswiftTests */,
 				60DE3E0FDBC2A6E6BD4BCBCA /* 30daysofswiftUITests */,
+				60DE38DE3C88FC91B402DBB1 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -207,6 +210,7 @@
 			files = (
 				60DE3AEE4B58348A165DF824 /* Assets.xcassets in Resources */,
 				60DE3661F1307557D799E9AC /* Preview Assets.xcassets in Resources */,
+				60DE3984F0F0C54CB1BEA486 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
